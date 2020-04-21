@@ -1,3 +1,4 @@
 # CodeTimers
-### Use a timer to manipulate a sketch in Processing
-### Read through a txt file while having some animations
+by: Alvin Tran
+### Use two timers to manipulate a sketch's display in Processing
+### Read through a txt file while having some animations or images based off the text's string
